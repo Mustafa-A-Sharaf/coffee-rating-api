@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "64c9607a37a8e483c0ab2897"
+  },
+  "name": "Espresso",
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "64c9607a37a8e483c0ab2898"
+  },
+  "name": "Cappuccino",
+  "rating": 4.2
+},
+{
+  "_id": {
+    "$oid": "64c9607a37a8e483c0ab2899"
+  },
+  "name": "Latte",
+  "rating": 4
+},
+{
+  "_id": {
+    "$oid": "64c9607a37a8e483c0ab289a"
+  },
+  "name": "Frappuccino",
+  "rating": 3.8
+},
+{
+  "_id": {
+    "$oid": "64c967f037a8e483c0ab289b"
+  },
+  "name": "Mocha",
+  "rating": 4.3
+},
+{
+  "_id": {
+    "$oid": "64c967f037a8e483c0ab289c"
+  },
+  "name": "Americano",
+  "rating": 3.6
+},
+{
+  "_id": {
+    "$oid": "64c970c937a8e483c0ab289d"
+  },
+  "name": "Macchiato",
+  "rating": 3
+},
+{
+  "_id": {
+    "$oid": "64c970c937a8e483c0ab289e"
+  },
+  "name": "Flat White",
+  "rating": 3.9
+},
+{
+  "_id": {
+    "$oid": "64c970c937a8e483c0ab289f"
+  },
+  "name": "Vienna",
+  "rating": 3.7
+},
+{
+  "_id": {
+    "$oid": "64c970c937a8e483c0ab28a0"
+  },
+  "name": "Iced Coffee",
+  "rating": 3.6
+}]
